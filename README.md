@@ -7,7 +7,7 @@ just run and wait
 
 how to install
 
-1. git clone https://github.com/bangkitboss/mager
+1. git clone https://github.com/bangkitboss/mager.git
 2. cd mager
 3. python3 wallet.py
 
